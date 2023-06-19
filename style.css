@@ -5,3 +5,11 @@
 .ameneties__divs{
     width: 325px;
 }
+
+.btn-card{
+    background-color: #9353ff;
+}
+
+.icons-ameneties, .ameneties__subtitle{
+    color: #daff01;
+}
