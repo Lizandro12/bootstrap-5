@@ -14,3 +14,13 @@
 .icons-ameneties, .ameneties__subtitle{
     color: #daff01;
 }
+
+.carouse-captpion-title{
+    font-size: 3rem;
+}
+
+@media (max-width:768px){
+    .carouse-captpion-title{
+        font-size: 2.5rem;
+    } 
+}
